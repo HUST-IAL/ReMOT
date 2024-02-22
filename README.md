@@ -5,7 +5,7 @@
 > Ruonan Wei, Yuehuan Wang, and Jinpu Zhang
 
 ### Visualization results on MOT challenge test set
-https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-03-DPM.mp4
+https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-03-DPM_batch.mp4
 
 https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-14-DPM_batch.mp4
 
