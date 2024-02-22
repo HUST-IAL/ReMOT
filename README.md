@@ -6,10 +6,7 @@
 
 This code is based on the implementation of [ByteTrack](https://github.com/ifzhang/ByteTrack), [BoT-SORT](https://github.com/NirAharon/BoT-SORT),
 
-### Visualization results on MOT challenge test set
-https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-03-DPM_batch.mp4
 
-![img](https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-14-DPM_batch.mp4)
 
 ## Installation
  
