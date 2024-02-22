@@ -4,7 +4,7 @@
 > 
 > Ruonan Wei, Yuehuan Wang, and Jinpu Zhang
 
-### Visualization results on MOT challenge test set
+## Visualization on MOT challenge test set
 https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-03-DPM_batch.mp4
 
 https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT17-14-DPM_batch.mp4
@@ -15,8 +15,6 @@ https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT20-06_batch.mp4
 
 https://github.com/HUST-IAL/ReMOT/blob/main/visualization/MOT20-08_batch.mp4
 
-
-This code is based on the implementation of [ByteTrack](https://github.com/ifzhang/ByteTrack), [BoT-SORT](https://github.com/NirAharon/BoT-SORT)
 ## Installation
  
 ### Setup with Anaconda
@@ -91,8 +89,8 @@ python3 tools/track.py <dataets_dir/MOT17> --default-parameters --with-reid --be
 ```
 
 ## Acknowledgement
-
-A large part of the codes, ideas and results are borrowed from 
+This code is based on the implementation of [ByteTrack](https://github.com/ifzhang/ByteTrack), [BoT-SORT](https://github.com/NirAharon/BoT-SORT).
+A lot of ideas and results are borrowed from 
 [ByteTrack](https://github.com/ifzhang/ByteTrack), 
 [BoT-SORT](https://github.com/NirAharon/BoT-SORT),
 [StrongSORT](https://github.com/dyhBUPT/StrongSORT),
